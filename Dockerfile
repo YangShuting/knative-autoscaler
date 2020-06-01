@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa@sha256:4f1b95f20e49056578dc93a465de43d3421711e5043b95897d8091cebe561b12
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:e54439449a4c90934f5c9025914e798c21808237688d2b7edb961ca96942ad73
 MAINTAINER maryyang
